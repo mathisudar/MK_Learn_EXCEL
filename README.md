@@ -2,5 +2,5 @@
 
 https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/learn/lecture/4752660#overview
 
-# Section 6
-https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/learn/lecture/4754102#questions
+# Section 7
+https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/learn/lecture/4754126#questions
